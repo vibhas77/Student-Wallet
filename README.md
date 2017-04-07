@@ -1,16 +1,16 @@
 # Student-Wallet
 A personal finance tracker built for college students.
 
-##Stack \n
+##Stack
 
 Overall we will be using the MEAN stack ( http://mean.io )
 
 NodeJS  , Express ( Backend )
 MongoDB ( Database )
-ReactJS ( Frontend ) 
+ReactJS ( Frontend )
 Docker ( Deployment )
 
-##UI\n
+**UI**
 The UI's wrireframe has been uploaded to the directory /ui . The wireframes have
 been built using Balsamiq Mockups.
 

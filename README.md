@@ -3,7 +3,7 @@ A personal finance tracker built for college students.
 
 ##Stack
 
-Overall we will be using the MEAN stack ( http://mean.io )
+Overall we will be using the MERN stack ( http://mern.io )
 
 NodeJS  , Express ( Backend )
 
@@ -16,8 +16,8 @@ Docker ( Deployment )
 
 **UI**
 
-The UI's wrireframe has been uploaded to the directory /ui . The wireframes have
-been built using Balsamiq Mockups.
+The UI's wrireframe has been uploaded to the directory /ui .
+The wireframes have been built using Balsamiq Mockups.
 
 Pages :
 1) Home Page ( Shows all the )

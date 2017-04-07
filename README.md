@@ -1,7 +1,7 @@
 # Student-Wallet
 A personal finance tracker built for college students.
 
-##Stack
+## Stack
 
 Overall we will be using the MERN stack ( http://mern.io )
 
@@ -14,7 +14,7 @@ ReactJS ( Frontend )
 Docker ( Deployment )
 
 
-**UI**
+## UI
 
 The UI's wrireframe has been uploaded to the directory /ui .
 The wireframes have been built using Balsamiq Mockups.
@@ -31,3 +31,9 @@ Feature :
 3) To show the total cash inflow and outflow in this month.
 4) Suppose a group of people go into a party. How to divide the bil.
     Calculate this using the bill application.
+
+--
+## To run
+
+npm install
+npm run

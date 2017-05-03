@@ -1,0 +1,76 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="946" measuredH="506" mockupW="291" mockupH="491">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="655" y="17" w="291" h="489" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>square</borderStyle>
+        <verticalScrollbar>false</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Canvas" x="655" y="15" w="291" h="70" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="-1"/>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="752" y="37" w="-1" h="-1" measuredW="96" measuredH="26" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>18</size>
+        <text>Final%20Result</text>
+      </controlProperties>
+    </control>
+    <control controlID="32" controlTypeID="com.balsamiq.mockups::Label" x="730" y="114" w="-1" h="-1" measuredW="141" measuredH="21" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>3700253</color>
+        <text>You%20will%20recieve%20money%21</text>
+      </controlProperties>
+    </control>
+    <control controlID="33" controlTypeID="__group__" x="688" y="171" w="208" h="24" measuredW="208" measuredH="24" zOrder="4" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::ComboBox" x="0" y="1" w="126" h="-1" measuredW="81" measuredH="23" zOrder="0" locked="false" isInGroup="33">
+          <controlProperties>
+            <text>shubham</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::NumericStepper" x="150" y="0" w="-1" h="-1" measuredW="58" measuredH="24" zOrder="1" locked="false" isInGroup="33">
+          <controlProperties>
+            <color>6989903</color>
+            <state>up</state>
+            <text>+60</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="34" controlTypeID="__group__" x="688" y="231" w="208" h="24" measuredW="208" measuredH="24" zOrder="5" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::ComboBox" x="0" y="1" w="126" h="-1" measuredW="62" measuredH="23" zOrder="0" locked="false" isInGroup="34">
+          <controlProperties>
+            <text>ahuja</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::NumericStepper" x="150" y="0" w="-1" h="-1" measuredW="58" measuredH="24" zOrder="1" locked="false" isInGroup="34">
+          <controlProperties>
+            <color>6989903</color>
+            <state>up</state>
+            <text>+30</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="36" controlTypeID="__group__" x="700" y="282" w="200" h="170" measuredW="200" measuredH="170" zOrder="6" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::FieldSet" x="0" y="0" w="-1" h="-1" measuredW="200" measuredH="170" zOrder="0" locked="false" isInGroup="36">
+          <controlProperties>
+            <text>Freeze%20Box</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Button" x="60" y="115" w="81" h="27" measuredW="71" measuredH="27" zOrder="1" locked="false" isInGroup="36">
+          <controlProperties>
+            <text>Freeze%21</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="38" controlTypeID="com.balsamiq.mockups::Paragraph" x="698" y="315" w="-1" h="-1" measuredW="200" measuredH="80" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <size>12</size>
+        <text>As%20soon%20as%20everyone%20in%20the%20party%20%0Afreezes%20the%20events.%20The%20above%20transaction%20will%20be%20%0Aadded%20to%20your%20log%21</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
